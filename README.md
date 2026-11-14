@@ -6,7 +6,7 @@ Depot for Spurensinn Playtest builds
 * Choose appropriate Release (Round 1, 2, etc)
 * Download .zip
 * Extract .zip
-* Start Spurensinn.exe
+* Start `Spurensinn.exe`
 (If prompted, More info > Run Anyway)
 
 # For Remote:
